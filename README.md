@@ -23,6 +23,8 @@ see the products table by clicking the See Product Table button on the navbar,
 searchthe products by product name on the navbar, 
 and now from the products table, you can delete and update product information.
 
+Run this command for insert initial data in products table: php artisan db:seed
+
 
 =======
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
