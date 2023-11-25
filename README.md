@@ -1,6 +1,28 @@
 <<<<<<< HEAD
 # ims_task
 Interactive Cares Coding Test
+Instructions for setting up and using this application:
+1. Copy the GitHub link and open the git bash to clone the project using this command
+   Ex: git clone https://github.com/Rifat-R-Rayhan/ims_task.git
+2. Open the project in VS Code studio
+3. Open the VS Code studio terminal and write those commands step by step
+4. npm install
+5. composer install or composer update
+6. Rename the file .env.example to .env
+7. php artisan key:generate
+8. php artisan migrate write yes to creating a database
+9. php artisan storage:link
+10. php artisan serve
+
+After successfully running this project 
+On the home page, you should register first by clicking the Registration button to access the CRUD operation. 
+After this registration, you should log in by clicking the login link on the registration page or clicking the Login button on the home page. 
+If you're successfully logged in, you can add, show, update, and delete products. 
+You can add products by clicking the Add Product button on the navbar, 
+see the products table by clicking the See Product Table button on the navbar, 
+and now from the products table, you can delete and update product information.
+
+
 =======
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
