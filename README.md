@@ -17,9 +17,10 @@ Instructions for setting up and using this application:
 After successfully running this project 
 On the home page, you should register first by clicking the Registration button to access the CRUD operation. 
 After this registration, you should log in by clicking the login link on the registration page or clicking the Login button on the home page. 
-If you're successfully logged in, you can add, show, update, and delete products. 
+If you're successfully logged in, you can add, show, search, update, and delete products. 
 You can add products by clicking the Add Product button on the navbar, 
 see the products table by clicking the See Product Table button on the navbar, 
+searchthe products by product name on the navbar, 
 and now from the products table, you can delete and update product information.
 
 
